@@ -1,5 +1,4 @@
 An analogue clock which shows the current time.
-Captures current time from the browser via JS and converts it to degrees
-to display on a circular surface.
+Captures current time from the browser via JS and converts it to degrees to display on a circular surface.
 
 This project uses the VS Code Live Server extension to display the code while working on it.
